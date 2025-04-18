@@ -6,6 +6,7 @@
 }
 body{
     height: 100vh;
+    background-color: rgb(112, 47, 47);
     display: flex;
     justify-content: center;
     align-items: center;
